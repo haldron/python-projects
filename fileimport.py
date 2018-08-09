@@ -2,6 +2,9 @@
 appending to files.
 Do not run script without fixing the snippets'''
 
+#format : f = open('wasteland.txt', mode ='wt', encoding = 'utf-8')
+#f.close() to close the file after writing the data
+
 filename = 'karan.txt'
 #opening and reading files
 with open(filename) as file_object:
