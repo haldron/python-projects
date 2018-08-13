@@ -1,2 +1,2 @@
 # pythonlearning
-Collection of code files used for learning python in 2018
+Collection of code files used for learning python and django
