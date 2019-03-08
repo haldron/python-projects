@@ -1,2 +1,2 @@
-# pythonlearning
-Collection of code files used for learning python and django
+# python-projects repository
+Collection of projects and online course files in Python
